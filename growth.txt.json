@@ -1,0 +1,55 @@
+{
+  "orders": [
+    {
+      "graphs": 34,
+      "min_distant_triples": 6,
+      "order": 18,
+      "witness_types": {
+        "colors_7": 1,
+        "colors_8": 33
+      }
+    },
+    {
+      "graphs": 1550,
+      "min_distant_triples": 13,
+      "order": 19,
+      "witness_types": {
+        "colors_6": 2,
+        "colors_7": 382,
+        "colors_8": 1166
+      }
+    },
+    {
+      "graphs": 6226,
+      "min_distant_triples": 28,
+      "order": 20,
+      "witness_types": {
+        "colors_6": 17,
+        "colors_7": 1429,
+        "colors_8": 4780
+      }
+    },
+    {
+      "graphs": 7158,
+      "min_distant_triples": 46,
+      "order": 21,
+      "witness_types": {
+        "colors_6": 8,
+        "colors_7": 1649,
+        "colors_8": 5501
+      }
+    },
+    {
+      "graphs": 8205,
+      "min_distant_triples": 76,
+      "order": 22,
+      "witness_types": {
+        "colors_6": 85,
+        "colors_7": 2115,
+        "colors_8": 6005
+      }
+    }
+  ],
+  "stream_sha256": "33788ac7fa87170a093c1c3e6faa954736c6c771fda5354a99601afe950e1c3c",
+  "width": 22
+}

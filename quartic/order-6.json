@@ -1,0 +1,12 @@
+{
+  "certificate": "order-6.txt.gz",
+  "edge_counts": {
+    "12": 1
+  },
+  "order": 6,
+  "quartic_only": true,
+  "stream_sha256": "7091a8947b8de7bf95c3930dcd7e11e1e9abe4b1c7246ab834f0fbbd589ba51e",
+  "witness_types": {
+    "colors_6": 1
+  }
+}

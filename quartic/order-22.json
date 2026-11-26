@@ -1,0 +1,15 @@
+{
+  "certificate": "order-22.colors.gz",
+  "detached": true,
+  "edge_counts": {
+    "44": 598102
+  },
+  "order": 22,
+  "quartic_only": true,
+  "stream_sha256": "2c8d9e24b0918bbcdba163be24db1091c46b47241351f25e43305fdc643ff568",
+  "witness_types": {
+    "colors_6": 16216,
+    "colors_7": 268441,
+    "colors_8": 313445
+  }
+}

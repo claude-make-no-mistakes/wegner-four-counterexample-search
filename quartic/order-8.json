@@ -1,0 +1,12 @@
+{
+  "certificate": "order-8.txt.gz",
+  "edge_counts": {
+    "16": 1
+  },
+  "order": 8,
+  "quartic_only": true,
+  "stream_sha256": "bd0286b5e9afdab473bf5ae5836d29335a8dfcb0a4c8d95d47e54b5213f594a5",
+  "witness_types": {
+    "colors_8": 1
+  }
+}

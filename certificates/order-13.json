@@ -1,0 +1,24 @@
+{
+  "certificate": "order-13.txt.gz",
+  "edge_counts": {
+    "20": 219,
+    "21": 5462,
+    "22": 28684,
+    "23": 40874,
+    "24": 15892,
+    "25": 1410,
+    "26": 18
+  },
+  "order": 13,
+  "quartic_only": false,
+  "stream_sha256": "dc2db5578c8c91ae83ab29aeb9f348da717a5ec32bc42d61450d9adcb0d2b332",
+  "witness_types": {
+    "colors_5": 597,
+    "colors_6": 18718,
+    "colors_7": 42086,
+    "colors_8": 1917,
+    "colors_9": 2,
+    "separator_3": 2323,
+    "separator_4": 26916
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "certificate": "order-7.txt.gz",
+  "edge_counts": {
+    "14": 0
+  },
+  "order": 7,
+  "quartic_only": true,
+  "stream_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "witness_types": {}
+}

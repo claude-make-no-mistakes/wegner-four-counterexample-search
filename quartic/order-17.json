@@ -1,0 +1,15 @@
+{
+  "certificate": "order-17.txt.gz",
+  "edge_counts": {
+    "34": 1326
+  },
+  "order": 17,
+  "quartic_only": true,
+  "stream_sha256": "c186ff25d9c5757bf306e1f86be7b7a4ff71b769b9a156815ff672e4235f3793",
+  "witness_types": {
+    "colors_6": 132,
+    "colors_7": 605,
+    "colors_8": 588,
+    "colors_9": 1
+  }
+}
